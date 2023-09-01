@@ -1,7 +1,6 @@
-
 // import 'package:remomdeling/detail_screen.dart';
 // import 'package:remomdeling/home_screen.dart';
-// import 'package:remomdeling/model/festival_model.dart';
+// import 'package:remomdeling/model/sample_model.dart';
 // import 'package:remomdeling/onboarding_screen.dart';
 import 'package:go_router/go_router.dart' show GoRoute, GoRouter;
 
